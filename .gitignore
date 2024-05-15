@@ -1,3 +1,11 @@
+# VSCode
+.vscode/
+trash/
+
+# Dataset and model files
+FireRisk-Dataset
+models
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
